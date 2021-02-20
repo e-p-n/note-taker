@@ -1,24 +1,19 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "6ef074e3-57af-4c17-81ee-130a035b13b9"
-    },
-    {
       "title": "Start a zombie apocalypse",
       "text": "Finish crafting formula that will turn the dead into mindless, brain-craving monsters that only I can control.",
-      "id": "5a5293a8-80d7-46ea-afb9-2df03056cc7f"
+      "id": "4cd5e955-b4e1-4994-b980-0848e3f68686"
     },
     {
       "title": "Cheer up the survivors",
       "text": "Teach the zombies to dance and do card tricks.",
-      "id": "10b9506c-7b3f-4728-90e5-ff222ebe1175"
+      "id": "85b66337-7d93-4f97-a40b-eb779d3977c3"
     },
     {
-      "title": "Regret my decision",
-      "text": "Try to reverse the damage I've done, which will probably lead to my terrible demise at the hands of the zombies.\n",
-      "id": "26efb02d-4910-4cdd-80f8-37bc2a05870b"
+      "title": "Regret my actions",
+      "text": "Attempt to reverse the damage I have caused, probably resulting in my ironic demise at the hands of the zombie horde I created.",
+      "id": "464fad91-62eb-476e-b76b-c61b3afa7edc"
     }
   ]
 }
