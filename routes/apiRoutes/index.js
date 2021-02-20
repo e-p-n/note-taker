@@ -1,20 +1,12 @@
 const router = require('express').Router();
 const { v4: uuid } = require('uuid');
-const { createNewNote, findById, validateNote, deleteNote } = require('../../lib/notes') 
+const { createNewNote, validateNote, deleteNote } = require('../../lib/notes') 
 const { notes } = require('../../db/db');
 
 router.get('/notes', (req, res) => {
     res.json(notes);
 });
 
-router.get('/notes/:id', (req, res) => {
-    const result = findById(req.params.id, notes);
-    if (result) {
-        res.json(result);
-    } else {
-        res.sendStatus(404);
-    }    
-})
 
 router.post('/notes', (req, res) => {
     // set id based on uuid

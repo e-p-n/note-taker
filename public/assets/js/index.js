@@ -63,6 +63,7 @@ const renderActiveNote = () => {
     noteText.removeAttribute('readonly');
     noteTitle.value = '';
     noteText.value = '';
+    console.log("new Note");
   }
 };
 

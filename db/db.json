@@ -6,9 +6,19 @@
       "id": "6ef074e3-57af-4c17-81ee-130a035b13b9"
     },
     {
-      "title": "New Note",
-      "text": "New Note Text",
-      "id": "6de898e7-790a-46d5-912a-8362fbc4d827"
+      "title": "Start a zombie apocalypse",
+      "text": "Finish crafting formula that will turn the dead into mindless, brain-craving monsters that only I can control.",
+      "id": "5a5293a8-80d7-46ea-afb9-2df03056cc7f"
+    },
+    {
+      "title": "Cheer up the survivors",
+      "text": "Teach the zombies to dance and do card tricks.",
+      "id": "10b9506c-7b3f-4728-90e5-ff222ebe1175"
+    },
+    {
+      "title": "Regret my decision",
+      "text": "Try to reverse the damage I've done, which will probably lead to my terrible demise at the hands of the zombies.\n",
+      "id": "26efb02d-4910-4cdd-80f8-37bc2a05870b"
     }
   ]
 }
