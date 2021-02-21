@@ -25,7 +25,7 @@ A website for writing, saving and deleting notes.
     1. Click on the "New Note" icon (looks like a pencil) in the top right corner of the navigation bar. 
     2. Enter the title and contents of your note in the form in the right column. 
     3. A "Save" icon (looks like a floppy disk) will appear next the "New Note" icon. Click on it and your note will be saved and added to the list of notes in the left column.
-4. To delete a not click the "Delete" icon (looks like a trash can) next to the note you want to delete in the left column.
+4. To delete a note, click the "Delete" icon (looks like a trash can) next to the note you want to delete in the left column.
 
 [![](./public/assets/images/Note-Taker.gif)](https://immense-river-11904.herokuapp.com/)
 
